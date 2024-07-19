@@ -7,32 +7,17 @@ ComposeWheather Wheather App made with Jetpack Compose
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
-This Wheather app is completely composed in Jetpack Compose with Kotlin. This app made with compatibility for the Light and Dark Mode on Android devices.
+This Weather app is completely composed in Jetpack Compose with Kotlin. This app made with compatibility for the Light and Dark Mode on Android devices.
 
 
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
-I am Android Developer since 2018 and I have heard of Jetpack Compose in Feb 2021 but never tried it. Few weeks earlier I heard of Android Developer Challenges, now it got me exited about it.
-I need to try this out for new Development purpose, And I started developing Whether app Challenge. I am proud of that I just made this app in One Day and I made and peaceful and simple UI that attracts the user.Compose
+
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
 
-## License
-```
-Copyright 2020 The Android Open Source Project
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    https://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
 ```
