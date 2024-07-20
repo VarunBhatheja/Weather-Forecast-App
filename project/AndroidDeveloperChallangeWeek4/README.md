@@ -8,7 +8,7 @@ ComposeWheather Wheather App made with Jetpack Compose
 This Wheather app is completely composed in Jetpack Compose with Kotlin. This app made with compatibility for the Light and Dark Mode on Android devices.
 
 
-## :bulb: Motivation and Context
+## :bulb:Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
 I am Android Developer since 2023 and I have heard of Jetpack Compose and tried it. 
